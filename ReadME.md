@@ -187,3 +187,7 @@ GraphQL or RESTful?
 - HTTP 와 HTTPs 에 의한 Caching 을 잘 사용하고 싶을 때
 - File 전송 등 단순한 Text 로 처리되지 않는 요청들이 있을 때
 - 요청의 구조가 정해져 있을 때
+
+### 결론
+
+> 이런 장단점을 잘 파악하여 GraphQL 만 쓸 것인지, RESTful structure 또한 사용할 것인지, 혹은 RESTful structure 만 사용할 것인지를 결정하는 것이 중요할 것 같습니다.
